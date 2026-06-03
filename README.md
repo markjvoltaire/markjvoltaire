@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a full stack developer passionate about turning ideas into real products. From sports apps to AI-powered tools, I build end-to-end solutions that are fast, functional, and built to last. Based in Miami — always building.
+I'm a full stack developer passionate about turning ideas into real products. From AI travel concierges to sports trading platforms, I build end-to-end solutions that are fast, functional, and built to last. Based in Miami — always building.
 
 ---
 
@@ -19,7 +19,8 @@ I'm a full stack developer passionate about turning ideas into real products. Fr
 ![React Native](https://img.shields.io/badge/React_Native-E1F5EE?style=flat&logo=react&logoColor=04342C)
 ![Node.js](https://img.shields.io/badge/Node.js-EAF3DE?style=flat&logo=node.js&logoColor=173404)
 ![Expo](https://img.shields.io/badge/Expo-EEEDFE?style=flat&logo=expo&logoColor=26215C)
-![Git](https://img.shields.io/badge/Git-FAECE7?style=flat&logo=git&logoColor=4A1B0C)
+![Supabase](https://img.shields.io/badge/Supabase-E1F5EE?style=flat&logo=supabase&logoColor=04342C)
+![Stripe](https://img.shields.io/badge/Stripe-E6F1FB?style=flat&logo=stripe&logoColor=042C53)
 
 ---
 
@@ -27,10 +28,10 @@ I'm a full stack developer passionate about turning ideas into real products. Fr
 
 | Project | Description | Language |
 |---|---|---|
-| [parlaypalApp](https://github.com/markjvoltaire/parlaypalApp) | Sports parlay app for smarter betting decisions. Rated 5.0/5 with 1K+ downloads on the App Store. | JavaScript |
-| [remiText](https://github.com/markjvoltaire/remiText) | AI-powered text tool built in TypeScript. Fast, clean, and purpose-driven. | TypeScript |
-| [SportsTraderApp](https://github.com/markjvoltaire/SportsTraderApp) | A trading platform tailored to sports enthusiasts. JavaScript-powered and feature-rich. | JavaScript |
-| [Verba](https://github.com/markjvoltaire/Verba) | TypeScript project focused on language and communication tools. | TypeScript |
+| [parlaypalApp](https://github.com/markjvoltaire/parlaypalApp) | AI-powered sports betting tool that analyzes parlay slips to reveal the real math behind your bets. Upload any bet slip, get instant win probability breakdowns. 1K+ downloads on the App Store. Won the SPARC South Florida pitch competition. | JavaScript |
+| [remiText](https://github.com/markjvoltaire/remiText) | AI travel concierge that lives entirely in your iMessage. Text naturally to search flights, hold, and book — powered by Claude (Anthropic), Duffel for flights, and Stripe for payments. No app needed. | TypeScript |
+| [SportsTraderApp](https://github.com/markjvoltaire/SportsTraderApp) | A React Native sports prediction market platform where users trade on sports outcomes like financial instruments. Features KYC identity verification, Solana wallet integration, live market charts, and a portfolio tracker. | JavaScript |
+| [Verba](https://github.com/markjvoltaire/Verba) | An AI language tutor mobile app for speaking practice. Users select a target language (Spanish, French, Italian, English), practice phrases, get AI pronunciation feedback, and run scenario-based conversations (restaurant, airport, hotel). Built with OpenAI and Supabase. | TypeScript |
 
 ---
 
@@ -39,6 +40,14 @@ I'm a full stack developer passionate about turning ideas into real products. Fr
 - 🟩 **480+** contributions in the last year
 - 📁 **145** repositories
 - ⚡ **98%** commit ratio
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Won **SPARC South Florida** pitch competition with Parlay Pal
+- 📱 **1K+ App Store downloads** on Parlay Pal
+- 🤖 Building with AI — Claude, OpenAI, and custom agent tooling across multiple projects
 
 ---
 
