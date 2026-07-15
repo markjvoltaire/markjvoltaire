@@ -28,10 +28,10 @@ I'm a full stack developer passionate about turning ideas into real products. Fr
 
 | Project | Description | Language |
 |---|---|---|
-| [parlaypalApp](https://github.com/markjvoltaire/parlaypalApp) | AI-powered sports betting tool that analyzes parlay slips to reveal the real math behind your bets. Upload any bet slip, get instant win probability breakdowns. 1K+ downloads on the App Store. Won the SPARC South Florida pitch competition. | JavaScript |
+| [parlaypalApp](https://github.com/markjvoltaire/parlaypalApp) | AI-powered sports betting tool that analyzes parlay slips to reveal the real math behind your bets. Upload any bet slip, get instant win probability breakdowns. 1K+ downloads on the App Store. Won the SPARC South Florida pitch competition. | React Native |
 | [remiText](https://github.com/markjvoltaire/remiText) | AI travel concierge that lives entirely in your iMessage. Text naturally to search flights, hold, and book — powered by Claude (Anthropic), Duffel for flights, and Stripe for payments. No app needed. | TypeScript |
-| [SportsTraderApp](https://github.com/markjvoltaire/SportsTraderApp) | A React Native sports prediction market platform where users trade on sports outcomes like financial instruments. Features KYC identity verification, Solana wallet integration, live market charts, and a portfolio tracker. | JavaScript |
-| [Verba](https://github.com/markjvoltaire/Verba) | An AI language tutor mobile app for speaking practice. Users select a target language (Spanish, French, Italian, English), practice phrases, get AI pronunciation feedback, and run scenario-based conversations (restaurant, airport, hotel). Built with OpenAI and Supabase. | TypeScript |
+| [SportsTraderApp](https://github.com/markjvoltaire/SportsTraderApp) | A React Native sports prediction market platform where users trade on sports outcomes like financial instruments. Features KYC identity verification, Solana wallet integration, live market charts, and a portfolio tracker. | React Native |
+| [Verba](https://github.com/markjvoltaire/Verba) | An AI language tutor mobile app for speaking practice. Users select a target language (Spanish, French, Italian, English), practice phrases, get AI pronunciation feedback, and run scenario-based conversations (restaurant, airport, hotel). Built with OpenAI and Supabase. | React Native |
 
 ---
 
