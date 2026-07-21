@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a full stack developer passionate about turning ideas into real products. From AI travel concierges to sports trading platforms, I build end-to-end solutions that are fast, functional, and built to last. Based in Miami — always building.
+I'm a full stack developer passionate about turning ideas into real products. From AI travel concierges to sports trading platforms, I build end-to-end solutions that are fast, functional, and built to last. Based in Miami.
 
 ---
 
